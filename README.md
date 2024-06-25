@@ -51,6 +51,27 @@ Selection-
 4.Index, remove index.
 5.Operations(+,-,*,/) between two columns.
 
-Missing values-
+Missing values- missing value checking,drop by row,drop by column & fill(mean,median)
+
+#Day 6-
+#Task-6:
+
+Data Visualisation: Scatter plot,Bar plot,Jion bar plot,Pie chart,Histogram,sub plots,in matplotlib and seaboarn library.
+
+#Day 7-
+#Task-7:
+
+Solving Exercise
+1.Numpy.
+2.Ecommerce Purchases.
+3.SF Salaries.
+
+#Day 8-
+#Task-8:
+
+Case Study 1
+Download titanic data
+1.Read data and import necessary libraries
+
 
 
