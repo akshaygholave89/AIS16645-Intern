@@ -72,6 +72,19 @@ Solving Exercise
 Case Study 1
 Download titanic data
 1.Read data and import necessary libraries
+2.Data Preprocessing.
+3.Visualisation.
+4.Model building
+5.Model evaluation
+6.Comparison
+
+#Task-9:
+
+Power Bi Dashboard: create Dashbooard using water Quality Prediction data.
+
+#Task-10:
+
+Project: Water Qualivy Prediction
 
 
 
